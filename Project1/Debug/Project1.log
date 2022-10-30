@@ -1,0 +1,20 @@
+﻿  源.cpp
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): warning C4477:  “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): message :  此参数由转换说明符使用
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): warning C4473:  “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): message :  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): message :  缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(87,10): message :  此参数用作缓冲区大小
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): warning C4477:  “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): message :  此参数由转换说明符使用
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): warning C4473:  “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): message :  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): message :  缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(95,11): message :  此参数用作缓冲区大小
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(72,6): warning C4101:  “a”: 未引用的局部变量
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(387,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(392,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\zhaoshangda\Desktop\第二次作业\Project1\源.cpp(386,28): warning C4101:  “m”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\zhaoshangda\Desktop\第二次作业\Debug\Project1.exe
